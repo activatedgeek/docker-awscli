@@ -9,10 +9,10 @@ Largely for CI purposes
 The container contains the following:
 * `Git`
 * `Git LFS`
-* `AWS CLI` (1.10+)
+* `AWS CLI` (`1.10.*`)
 
 ## Images
-* `latest`, `0.1`, `0.1.0` ([Dockerfile](./Dockerfile))
+* `latest`, `0.1`, `0.1.1` ([Dockerfile](./Dockerfile))
 
 ## Usage
 Pull the docker image from Docker hub as:
